@@ -1,4 +1,4 @@
-#23赛季 Artisans战队视觉代码  
+#23
 
 
     1.autoaim 自瞄
@@ -16,4 +16,4 @@
     17.main.cpp 程序主文件
     18.README.md 说明文件
     19.auto_start.sh 自启脚本
-# Artisans-23-Vision
+# Aiit
